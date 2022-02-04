@@ -24,7 +24,7 @@ public class TemperatureConverter {
         double CeltoFah = CeltoFah1 + 32;
         System.out.println(CelTemp + "C" + "--->" + CeltoFah + "F");
     }else{
-        System.out.println("Invalid.");
+        System.out.println("Invalid input.");
     }
 
     System.out.println("Convert again?");
